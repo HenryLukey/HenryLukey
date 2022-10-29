@@ -1,7 +1,14 @@
 <h2 align="left">Hi 👋, I'm Henry Lukey</h2>
 
-<h3 align="left">💻 I’m currently working on ...<h3>
-  - [YourBarCart](https://github.com/HenryLukey/YourBarCart)
+<h3 align="left">💻 I’m currently working on ...</h3>
+<ul dir="auto">
+  <li>
+    <a href="https://github.com/HenryLukey/YourBarCart">YourBarCart</a>
+  </li>
+  <li>
+    An IOT project
+  </li>
+</ul>
 <hr/>
  
 <h3 align="left">Skills:</h3>
